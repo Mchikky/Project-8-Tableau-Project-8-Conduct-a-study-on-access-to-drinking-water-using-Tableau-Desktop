@@ -1,5 +1,4 @@
-# Project 8 
-Conduct a study on access to drinking water using Tableau
+# Project 8: Conduct a study on access to drinking water using Tableau
 
 Objectives: Conduct a study on access to drinking water through data visualization by Tableau
 
