@@ -31,6 +31,7 @@ Create a dashboard to identify countries that are experiencing difficulties acce
 
 - The continent with the highest percentage of deaths due to Water, Sanitation, and Hygiene (WASH) is Africa; with highest occurence in Chad
 - Eastern Mediteterranean has the least percentage of population using safely managed drinking water services in rural area.
+
 ![Tableau Dashboard Global](https://github.com/user-attachments/assets/90b8022f-8a1a-4079-a082-dfb8f1635a1e)
 
 - Africa has the least perecentage of population using basic drinking water services in rural area.
